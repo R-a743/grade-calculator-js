@@ -12,7 +12,7 @@ ve **geçme durumunu** otomatik hesaplayan modern bir web uygulamasıdır.
 ## 🌐 Canlı Demo
 
 🔗 **Uygulamayı hemen dene:**  
-👉 [https://r-a743.github.io/not-hesaplama/](https://r-a743.github.io/not-hesaplama/)
+👉(https://r-a743.github.io/grade-calculator-js/)
 
 ---
 
